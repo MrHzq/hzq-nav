@@ -1,0 +1,199 @@
+[
+  {
+    "name": "阮一峰的网络日志",
+    "url": "https://www.ruanyifeng.com/blog/archives.html",
+    "description": "值得查看的科技内容分享",
+    "category_id": 1,
+    "category_name": "资讯"
+  },
+  {
+    "name": "Emoji 表情搜索",
+    "url": "https://ai-emoji.bettergogo.com/",
+    "description": "采用自然语言搜索 Emoji 表情",
+    "category_id": 2,
+    "category_name": "工具"
+  },
+  {
+    "name": "前端工具集合",
+    "url": "https://www.jsonla.com/json/editor.html",
+    "description": "常用 JSON 压缩、图片转 base64 等等",
+    "category_id": 2,
+    "category_name": "工具"
+  },
+  {
+    "name": "自制 RSS 教程",
+    "url": "https://zhuanlan.zhihu.com/p/512303214",
+    "category_id": 3,
+    "category_name": "教程"
+  },
+  {
+    "name": "plasmo-co-learn",
+    "url": "https://creatorsdao.github.io/plasmo-co-learn/docs/intro/",
+    "description": "Plasmo 浏览器插件学习文档",
+    "category_id": 4,
+    "category_name": "文档"
+  },
+  {
+    "name": "NetNewsWire",
+    "url": "https://netnewswire.com/",
+    "description": "免费的 macOS RSS 软件",
+    "category_id": 5,
+    "category_name": "软件"
+  },
+  {
+    "name": "github-个人主页",
+    "url": "https://github.com/MrHzq",
+    "category_id": 6,
+    "category_name": "Github"
+  },
+  {
+    "name": "掘金-个人主页",
+    "url": "https://juejin.cn/user/395479915969656/posts",
+    "category_id": 7,
+    "category_name": "个人"
+  },
+  {
+    "name": "github-个人博客",
+    "url": "https://mrhzq.github.io/",
+    "category_id": 7,
+    "category_name": "Github/个人"
+  },
+  {
+    "name": "语雀-个人花园",
+    "url": "https://www.yuque.com/u53094?view=doc_embed",
+    "category_id": 7,
+    "category_name": "语雀/个人"
+  },
+  {
+    "name": "深证A股市盈率查询网址",
+    "url": "https://www.legulegu.com/stockdata/shenzhenPE",
+    "category_id": 9,
+    "category_name": "理财"
+  },
+  {
+    "name": "ttyd 浏览器命令行使用教程",
+    "url": "https://blog.csdn.net/cqcre/article/details/122295145",
+    "category_id": 2,
+    "category_name": "工具"
+  },
+  {
+    "name": "写一个命令行终端[electron实战]",
+    "url": "https://segmentfault.com/a/1190000038966969",
+    "category_id": 3,
+    "category_name": "教程"
+  },
+  {
+    "name": "下书网-小说下载",
+    "url": "http://www.xiaashu.com/",
+    "category_id": 10,
+    "category_name": "资源"
+  },
+  {
+    "name": "RAGFlow 体验网址",
+    "url": "https://demo.ragflow.io/",
+    "category_id": 11,
+    "category_name": "AI"
+  },
+  {
+    "name": "Ffmpeg 官网下载",
+    "url": "https://evermeet.cx/ffmpeg/",
+    "description": "可通过 brew install ffmpeg 安装\nffmpeg -version 查看",
+    "category_id": 5,
+    "category_name": "软件"
+  },
+  {
+    "name": "fluent-ffmpeg 库中文文档",
+    "url": "https://www.jianshu.com/p/5821324a4a0a",
+    "category_id": 4,
+    "category_name": "文档"
+  },
+  {
+    "name": "Ffmpeg 官方中文文档",
+    "url": "https://ffmpeg.github.net.cn/documentation.html",
+    "category_id": 4,
+    "category_name": "文档"
+  },
+  {
+    "name": "ffmpeg-static 库github",
+    "url": "https://github.com/eugeneware/ffmpeg-static",
+    "description": "可以直接通过运行命令的方式来操作视频\n 比 fluent-ffmpeg 强大多了",
+    "category_id": 6,
+    "category_name": "Github"
+  },
+  {
+    "name": "VLC 视频播放器",
+    "url": "https://www.videolan.org/",
+    "description": "一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。",
+    "category_id": 5,
+    "category_name": "软件"
+  },
+  {
+    "name": "网络测速",
+    "url": "https://www.speedtest.cn/",
+    "category_id": 2,
+    "category_name": "工具"
+  },
+  {
+    "name": "FreeOk 追剧网",
+    "url": "https://www.freeok.vip/",
+    "category_id": 12,
+    "category_name": "影视"
+  },
+  {
+    "name": "JavaScript 生态调查",
+    "url": "https://stateofjs.com/en-US",
+    "category_id": 1,
+    "category_name": "资讯"
+  },
+  {
+    "name": "Tailwind CSS 库",
+    "url": "https://daisyui.com/",
+    "description": "github 排名高，交互十分酷炫",
+    "category_id": 13,
+    "category_name": "框架"
+  },
+  {
+    "name": "前端 SSE 库",
+    "url": "https://www.npmjs.com/package/@microsoft/fetch-event-source",
+    "category_id": 14,
+    "category_name": "npm"
+  },
+  {
+    "name": "CSS clip-path 生成器",
+    "url": "https://bennettfeely.com/clippy/",
+    "description": "样式多",
+    "category_id": 2,
+    "category_name": "工具"
+  },
+  {
+    "name": "即时通讯学习网站",
+    "url": "http://www.52im.net/",
+    "category_id": 15,
+    "category_name": "学习"
+  },
+  {
+    "name": "ESM 详细解释",
+    "url": "https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/",
+    "description": "翻译成中文看，都很有深度",
+    "category_id": 4,
+    "category_name": "文档"
+  },
+  {
+    "name": "mac 一键装机大法",
+    "url": "https://sspai.com/post/43239",
+    "category_id": 16,
+    "category_name": "系统"
+  },
+  {
+    "name": "国外电子书下载",
+    "url": "https://libgen.rs/",
+    "category_id": 10,
+    "category_name": "资源"
+  },
+  {
+    "name": "呼吸益肾回春术",
+    "url": "http://www.chenlianfu.com/?p=2075",
+    "category_id": 17,
+    "category_name": "养生"
+  }
+]
