@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkThinNav"]=self["webpackChunkThinNav"]||[]).push([[590],{590:function(e){e.exports=JSON.parse('[{"name":"ThinNav","url":"https://github.com/DemoJ/ThinNav","description":"一个极其简洁轻便的开源网址导航站，自带后台管理系统","category_id":1,"category_name":"Github"}]')}}]);
