@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkThinNav"]=self["webpackChunkThinNav"]||[]).push([[500],{500:function(e){e.exports=JSON.parse('[{"name":"Github","id":1,"icon_url":"toolbox"}]')}}]);

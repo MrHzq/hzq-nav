@@ -2,7 +2,11 @@
   <div class="AppSidebar" ref="sidebar">
     <ul>
       <li v-for="category in categories" :key="category.id">
-        <i v-if="category.icon_url" :class="`fas fa-${category.icon_url}`" class="icon"/>
+        <i
+          v-if="category.icon_url"
+          :class="`fas fa-${category.icon_url}`"
+          class="icon"
+        />
         <a :href="'#' + category.name">{{ category.name }}</a>
       </li>
     </ul>
@@ -11,30 +15,30 @@
 
 <script>
 export default {
-  name: 'AppSidebar',
+  name: "AppSidebar",
   props: {
-    categories: Array
+    categories: Array,
   },
   data() {
     return {
       bottomGap: 20, // 距离底部的固定距离
-    }
+    };
   },
   mounted() {
     this.adjustSidebarHeight();
-    window.addEventListener('resize', this.adjustSidebarHeight);
-    window.addEventListener('scroll', this.adjustSidebarHeight);
+    window.addEventListener("resize", this.adjustSidebarHeight);
+    window.addEventListener("scroll", this.adjustSidebarHeight);
   },
   beforeUnmount() {
-    window.removeEventListener('resize', this.adjustSidebarHeight);
-    window.removeEventListener('scroll', this.adjustSidebarHeight);
+    window.removeEventListener("resize", this.adjustSidebarHeight);
+    window.removeEventListener("scroll", this.adjustSidebarHeight);
   },
   methods: {
     adjustSidebarHeight() {
       const sidebar = this.$refs.sidebar;
       const windowHeight = window.innerHeight;
       const sidebarRect = sidebar.getBoundingClientRect();
-      
+
       let newHeight = windowHeight - sidebarRect.top - this.bottomGap;
 
       // 确保 sidebar 高度不会小于最小值
@@ -42,8 +46,8 @@ export default {
       newHeight = Math.max(newHeight, minHeight);
 
       sidebar.style.height = `${newHeight}px`;
-    }
-  }
+    },
+  },
 };
 </script>
 
