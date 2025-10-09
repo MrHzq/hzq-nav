@@ -109,7 +109,7 @@
     "category_name": "理财",
     "icon_url": "",
     "title": "深证平均市盈率走势图_深证历史市盈率_乐咕乐股网",
-    "icon": "https://legulegu.com/static/image/icon/legulegu_32_ico.ico"
+    "icon": "https:/www.legulegu.com/static/image/icon/legulegu_32_ico.ico"
   },
   {
     "name": "ttyd 浏览器命令行使用教程",
@@ -187,7 +187,7 @@
     "category_name": "软件",
     "icon_url": "",
     "title": "VLC: Official site - Free multimedia solutions for all OS! - VideoLAN",
-    "icon": "https://images.videolan.org/images/favicon.ico"
+    "icon": "https:/www.videolan.org/favicon.ico"
   },
   {
     "name": "网络测速",
@@ -383,5 +383,112 @@
     "icon_url": "",
     "title": "2024最新Clash for Android使用教程配置从入门到精通",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEtElEQVR4nLXWfUwbZRwH8OeA0dtd35+6tLeuQNtRKoHRXilt6d16vZaXCSJsAwOCIFtljoyVdrPjLTPZ1BjjEo1Z5iuaOP/wJZqoW0wW4/xDo3Mu8S3TaDIwkhinG4JsIvwMXWEDGRRCn+STJr/n+d3zzdPrXRFKdgQOp6PA4bSk1y/eT6yuWexHSBxoQOJAJxL7yZX3D+iQOHAEiQPGVQboW4/EvlNI7B9FYl8H8vcmfxJibyYS+55CYv91JPY1rS6A0GNE/p5LyN8DSOgZQkKPO7lGYqZXRP6ey4neJ1YXwBcLIiH2NxJiEOeLfYC2HlQu27f1II18sTdv6Xsb+R5et/IAfDSE+APTiD8ACdcQH92L+Iga8ZE8xEe8iI9yN0TciI+YEB9RIT5ahfjoXzf7ol8jPrphRXsT3H5EcN1PElw3zBf+leDCX9747B4juO7xhFGCCw8TXPgcwYUvLui7THBh+4oCpHP7MtO4rnfTuC5YA5NpXFfDigJISvdqMr2dFzK9nbBGjqwoAOXpyKM8e0Yozx5YI6/S7geT/xnT7pCPdofGaXcI1sgnUldImnQAmav9fpmrfUrmaocZxm1hCD3yItTuPwbK0t3x2u0U1MXgoaODIO56FOSuXbP1n2Ul7YbkdifSkNzZGpY7W2FW12OD8O/UFAyN/A7szthcfSFFSRs8c/I0TE9Pwxff/ARZwc7ZuStyZ2tJUvurHE1IVdx8XFXcDLOaosfgt8tX4bMLF+HObfvm6osZePp1+HN0DN768FPQ87tn65Oq4ub65AKwjaSKbTylYhth1gZXC/CNh6Cwah+oHU1z9cXovW3gb+6DzcGOhXO9SQXAtnqMbfXnsa0BlmLkH4Ct9x6EitZ+MPval1x7Q/0JTdGO5QNoirYbNUU7hjRFO2ApxdV7YVtrL1S0HAJPbdeSaxPe0xRtlywfYEudS7OlblSzpQ7W2HlcWKte/isorLkbF9Zcx4U1sMaGcWHN8n9OcEF1CBdUQwqM4oJqz/+P3FqZobFWkhprJTHzDMD5d0VwfhWkwCTOr7p5F2JLWTrOK/dha8Ur2FrxGrZWaIn0TIStlcextRJSJBzfXG0JEmpL8B5sKfsFW8q+xXnl9+G88ky1JbgOW8rewJYySJFn4wFUm8WNqtzAOXVu4Ee1JeiYCRSv5wZodW7grDo3ACkyqNrsT0NKs1CuNAtjSrPwcryQGEqzoFWahe+UZgFS5IzSLFBIaeJbFCb+H4WJf16ew83dFwojn6Mw8UMKEw8p8pXCyN+B5Dlevzzbe1We7f1cnl0695qUZ3tLEnVIkUvybK8ZybJKNbIszxlZlmdKanCflhpc1fSmEpPU4K6XZXkmZFkeSAmD5w+pwe1BUoMb0ZtcAr2p5Ada7wRa75yg9c5hWu8cofXO6UQtFcZpvbMiftyU3klQG4ttFON4gWIc31OM4wrFOCYoxjFNMQ5IkWsU49g570lIMWzGeobVkQzrJBm2jGTYEKljHyd19hO3eInU2d8hdfaPSJ397BI+JnX290md/SSpsz837xoMe5Rk2DaSYZll3wcLh0RrIyRam0SitdESrU26hJl5UqK1ZUi0ttte8D9udPaiXqac5AAAAABJRU5ErkJggg=="
+  },
+  {
+    "name": "Brix 远程工作社区",
+    "url": "https://tgfa0mvtu5.feishu.cn/docx/Y4X4dWd0AonjC4xrE0mc8sknnih",
+    "description": "可寻求远程工作\nP.S. 和我们的社群运营说你是看到邮件过来的，会请你喝咖啡  o‿≖✧",
+    "category_id": 21,
+    "category_name": "工作",
+    "icon_url": ""
+  },
+  {
+    "name": "谷歌插件 API",
+    "url": "https://18055975947.github.io/extension/api/action.html#_3-usersettings",
+    "description": "比官方的更友好",
+    "category_id": 22,
+    "category_name": "API",
+    "icon_url": ""
+  },
+  {
+    "name": "25 个 Nuxt3 开发技巧",
+    "url": "https://chansee-nuxt-blog.netlify.app/p/blog/25-time-saving-tips-for-nuxt3",
+    "category_id": 4,
+    "category_name": "教程",
+    "icon_url": ""
+  },
+  {
+    "name": "Web3 产品课程之区块链(Web3)行业简单介绍",
+    "url": "https://thewebthree.xyz/4/course_article?act_id=45",
+    "category_id": 23,
+    "category_name": "web3学习",
+    "icon_url": ""
+  },
+  {
+    "name": "The Web3 社区产品课程之深入理解中心化交易业务流程",
+    "url": "https://mp.weixin.qq.com/s/crR1s77BNm45JJkUHBmnHQ",
+    "category_id": 23,
+    "category_name": "web3学习",
+    "icon_url": ""
+  },
+  {
+    "name": "在线图片压缩",
+    "url": "https://tinypng.com/",
+    "category_id": 3,
+    "category_name": "工具",
+    "icon_url": ""
+  },
+  {
+    "name": "在线图片转 Base64",
+    "url": "https://tool.chinaz.com/tools/imgtobase",
+    "category_id": 3,
+    "category_name": "工具",
+    "icon_url": ""
+  },
+  {
+    "name": "在线格式化 JSON",
+    "url": "https://www.jsonla.com/json/editor.html",
+    "description": "JSON LA在线提供JSON视图查看，展开JSON内容，实现JSON数据可视化，右侧可以点击向下/向上箭头，对JSON数据进行展开和收起。在编辑的过程中，可以",
+    "category_id": 3,
+    "category_name": "工具",
+    "icon_url": "",
+    "title": "JSONJSON视图查看 - JSON LA在线工具",
+    "icon": "https://cdn.vfan.top/images/json.la/favicon.ico"
+  },
+  {
+    "name": "Gitlab api 文档",
+    "url": "https://git.zuoyebang.cc/help/api/api_resources.md",
+    "category_id": 5,
+    "category_name": "文档",
+    "icon_url": ""
+  },
+  {
+    "name": "在线图片设计",
+    "url": "https://www.gaoding.com/",
+    "category_id": 3,
+    "category_name": "工具",
+    "icon_url": ""
+  },
+  {
+    "name": "顶部浏览器",
+    "url": "https://apps.apple.com/cn/app/menubarx-%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%8F%9C%E5%8D%95%E6%A0%8F%E6%B5%8F%E8%A7%88%E5%99%A8/id1575588022?mt=12",
+    "description": "摸鱼、展示浏览器里面的小东西",
+    "category_id": 6,
+    "category_name": "软件",
+    "icon_url": ""
+  },
+  {
+    "name": "Slidepad 侧边浏览器",
+    "url": "https://slidepad.app/",
+    "description": "效率之神",
+    "category_id": 6,
+    "category_name": "软件",
+    "icon_url": ""
+  },
+  {
+    "name": "DailyTasks",
+    "url": "https://mrhzq.github.io/daily-tasks/#/",
+    "description": "自己写的每人任务",
+    "category_id": 24,
+    "category_name": "网址",
+    "icon_url": ""
+  },
+  {
+    "name": "魔戒 VPN",
+    "url": "https://mojie.kim/shop",
+    "description": "更便宜: 750G - 不限时间-￥69",
+    "category_id": 20,
+    "category_name": "VPN",
+    "icon_url": ""
   }
 ]

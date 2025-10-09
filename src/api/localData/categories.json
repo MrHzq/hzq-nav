@@ -98,5 +98,25 @@
     "name": "VPN",
     "id": 20,
     "icon_url": "toolbox"
+  },
+  {
+    "name": "工作",
+    "id": 21,
+    "icon_url": "toolbox"
+  },
+  {
+    "name": "API",
+    "id": 22,
+    "icon_url": "toolbox"
+  },
+  {
+    "name": "web3学习",
+    "id": 23,
+    "icon_url": "toolbox"
+  },
+  {
+    "name": "网址",
+    "id": 24,
+    "icon_url": "toolbox"
   }
 ]
